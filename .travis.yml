@@ -4,6 +4,7 @@ dist: trusty
 rvm:
   - 2.2
   - 2.3
+  - 2.4
 
 script: echo "Running tests against $(ruby -v) ..."
 
